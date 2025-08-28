@@ -1,4 +1,4 @@
-# qb-inpit Prodigy 2.0 Inspired
+# qb-input Prodigy 2.0 Inspired
 
 
 ## Showcase 
