@@ -1,3 +1,4 @@
 # CSS EDIT PRODIGTY ROLEPLAY
 
-<img width="911" height="653" alt="image" src="https://github.com/user-attachments/assets/9546261d-734c-490e-bb64-f18321a10874" />
+<img width="543" height="286" alt="image" src="https://github.com/user-attachments/assets/b51c075b-60bc-4f15-a84e-8fa8ca929262" />
+
