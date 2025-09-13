@@ -11,3 +11,6 @@
 # Usage
 
 - Very simple replace your qb-input
+
+ Credits
+- [Valkata4235421]([https://github.com/Valkata4235421/qb-input-vkt-reskin])
